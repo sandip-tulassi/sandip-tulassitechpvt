@@ -159,7 +159,7 @@ print_r($arrsubject);
 </head>
 <body>
 	<center>
-	<h4>Marks Calculation</h4>
+	<h4>Marks Calculation of college Students</h4>
 	<form method="post" action="savemarks.php">
 	<table>
 	<tr><th>StuentName</th><th>Roll No</th></tr>
